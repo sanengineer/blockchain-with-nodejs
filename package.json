@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-with-nodejs",
+  "version": "1.0.0",
+  "description": "Create blockhain with nodeJS and CryptoJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [
+    "blockchain",
+    "nodeJS",
+    "cryptoJS",
+    "blockchain-nodeJS"
+  ],
+  "author": "sanengineer",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
